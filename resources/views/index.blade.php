@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="keendevs">
     <!-- ======== Page title ============ -->
-    <title>SPRUCE - Portfolio HTML Template</title>
+    <title>SHOHAN - Portfolio HTML Template</title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/favicon.png">
     <!-- ===========  All Stylesheet ================= -->
@@ -46,26 +46,26 @@
     <div id="preloader" class="preloader">
         <div class="animation-preloader">
             <div class="spinner"></div>
-                <div class="txt-loading">
-                    <span data-text-preloader="S" class="letters-loading">
-                        S
-                    </span>
-                    <span data-text-preloader="H" class="letters-loading">
-                        H
-                    </span>
-                    <span data-text-preloader="O" class="letters-loading">
-                        O
-                    </span>
-                    <span data-text-preloader="H" class="letters-loading">
-                        H
-                    </span>
-                    <span data-text-preloader="A" class="letters-loading">
-                        A
-                    </span>
-                    <span data-text-preloader="N" class="letters-loading">
-                        N
-                    </span>
-                </div>
+            <div class="txt-loading">
+                <span data-text-preloader="S" class="letters-loading">
+                    S
+                </span>
+                <span data-text-preloader="H" class="letters-loading">
+                    H
+                </span>
+                <span data-text-preloader="O" class="letters-loading">
+                    O
+                </span>
+                <span data-text-preloader="H" class="letters-loading">
+                    H
+                </span>
+                <span data-text-preloader="A" class="letters-loading">
+                    A
+                </span>
+                <span data-text-preloader="N" class="letters-loading">
+                    N
+                </span>
+            </div>
             <p class="text-center">Loading</p>
         </div>
         <div class="loader">
@@ -100,12 +100,12 @@
                             <li><a href="#">Home</a>
                                 <ul class="sub-menu">
                                     <li>
-                                       <a href="index.html">Homepage 1</a>
+                                        <a href="index.html">Homepage 1</a>
                                     </li>
                                     <li>
-                                       <a href="index-2.html">Homepage 2</a>
+                                        <a href="index-2.html">Homepage 2</a>
                                     </li>
-                                 </ul>
+                                </ul>
                             </li>
                             <li><a href="#about">About</a></li>
                             <li><a href="#services">services</a></li>
@@ -150,7 +150,7 @@
                                 <li>
                                     <a href="#portfolio">portfolio</a>
                                 </li>
-                               
+
                                 <li>
                                     <a href="#contact">contact</a>
                                 </li>
@@ -169,21 +169,30 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-sm-12 text-center text-lg-left">
                     <div class="hero-content overflow-hidden">
-                        <span class="hello-tooltip wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Hi! There</span>
+                        <span class="hello-tooltip wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Hi!
+                            There</span>
                         <h1 class="wow fadeInLeft" data-wow-duration="1.3s" data-wow-delay=".9s">Shohanur Rahman</h1>
                         <div class="typed">
-                           <h3 class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="1.3s">I'm a <span class="profession">   Developer</span></h3>
+                            <h3 class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="1.3s">I'm a <span
+                                    class="profession"> Developer</span></h3>
                         </div>
-                        <p class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="1.6s">I am a student studying Diploma in Computer Engineering. 
-                            I love working on various technologies in addition to my studies. I love coding and programming. I am currently working on web development for the last 3 years. 
-                            And in addition to freelancing, I am contributing to various open source projects and packages. </p>
-                        <a href="#" class="theme-btn wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="1.9s">+ Download CV</a>
+                        <p class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="1.6s">I am a student studying
+                            Diploma in Computer Engineering.
+                            I love working on various technologies in addition to my studies. I love coding and
+                            programming. I am currently working on web development for the last 3 years.
+                            And in addition to freelancing, I am contributing to various open source projects and
+                            packages. </p>
+                        <a href="#" class="theme-btn wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="1.9s">+
+                            Download CV</a>
 
                         <div class="social-profile">
-                            <a href="https://www.facebook.com/mdshohan.shohan.14268" class="wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay="2.2s"><i class="fal fa-plus"></i>facebook</a>
-                            <a href="https://twitter.com/MDShoha38743696" class="wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay="2.5s"><i class="fal fa-plus"></i>twitter</a>
-                            <a href="https://www.linkedin.com/in/shohan-rahman-81aaab232/" class="wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay="2.7s"><i class="fal fa-plus"></i>linkedin</a>
-                            
+                            <a href="https://www.facebook.com/mdshohan.shohan.14268" class="wow fadeInLeft"
+                                data-wow-duration="1.2s" data-wow-delay="2.2s"><i class="fal fa-plus"></i>facebook</a>
+                            <a href="https://twitter.com/MDShoha38743696" class="wow fadeInLeft"
+                                data-wow-duration="1.2s" data-wow-delay="2.5s"><i class="fal fa-plus"></i>twitter</a>
+                            <a href="https://www.linkedin.com/in/shohan-rahman-81aaab232/" class="wow fadeInLeft"
+                                data-wow-duration="1.2s" data-wow-delay="2.7s"><i class="fal fa-plus"></i>linkedin</a>
+
                         </div>
                     </div>
                 </div>
@@ -193,7 +202,7 @@
                     </div>
                 </div>
             </div>
-        </div> 
+        </div>
     </section>
 
     <!-- service section -->
@@ -203,7 +212,7 @@
                 <div class="col-12 text-center col-lg-10 offset-lg-1">
                     <div class="section-title-one wow fadeInDown" data-wow-duration="1.2s">
                         <span>my services</span>
-                        <h2>I’m  Web Design & Developer and Check What’s Services I’ll Provide my Clients.</h2>
+                        <h2>I’m Web Design & Developer and Check What’s Services I’ll Provide my Clients.</h2>
                     </div>
                 </div>
             </div>
@@ -211,19 +220,19 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="single-service service-1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                         <div class="icon">
-                           <img src="assets/img/icons/creativity.png" alt="">
+                            <img src="assets/img/icons/creativity.png" alt="">
                         </div>
                         <h3>School Management</h3>
-                        <p> We provide various school management software & student helpful.</p>                        
+                        <p> We provide various school management software & student helpful.</p>
                     </div>
                 </div> <!-- /.single-service -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="single-service service-1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                         <div class="icon">
-                           <img src="assets/img/icons/seo.png" alt="">
+                            <img src="assets/img/icons/seo.png" alt="">
                         </div>
                         <h3>Software Management</h3>
-                        <p>We do different software according to the client's requirement.</p>                        
+                        <p>We do different software according to the client's requirement.</p>
                     </div>
                 </div> <!-- /.single-service -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -232,24 +241,24 @@
                             <img src="assets/img/icons/code.png" alt="">
                         </div>
                         <h3>Web Design & Developer</h3>
-                        <p>I am laravel frame work developer & the client's requirement .</p>                        
+                        <p>I am laravel frame work developer & the client's requirement .</p>
                     </div>
                 </div> <!-- /.single-service -->
             </div>
             <div class="contact-promo text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".9s">
-                Have any Work? Fell Free to -  <a href="#contact">Contact Me</a>
+                Have any Work? Fell Free to - <a href="#contact">Contact Me</a>
             </div>
         </div>
     </section>
-   
+
     <!-- about-me section -->
     <section class="about-section section-padding theme-bg-gray" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-10 offset-lg-1 achivements-area">                    
+                <div class="col-12 col-lg-10 offset-lg-1 achivements-area">
                     <div class="single-achivement">
                         <div class="icon">
-                           <img src="assets/img/icons/start-up.png" alt="">
+                            <img src="assets/img/icons/start-up.png" alt="">
                         </div>
                         <div class="achive-heading">
                             <h3>Top Rated</h3>
@@ -258,7 +267,7 @@
                     </div> <!-- single-achivement -->
                     <div class="single-achivement">
                         <div class="icon">
-                           <img src="assets/img/icons/client.png" alt="">
+                            <img src="assets/img/icons/client.png" alt="">
                         </div>
                         <div class="achive-heading">
                             <h3>100+</h3>
@@ -267,29 +276,30 @@
                     </div> <!-- single-achivement -->
                     <div class="single-achivement">
                         <div class="icon">
-                           <img src="assets/img/icons/career.png" alt="">
+                            <img src="assets/img/icons/career.png" alt="">
                         </div>
                         <div class="achive-heading">
                             <h3>3 YEARS</h3>
                             <span>Experienced Designer</span>
                         </div>
-                    </div> <!-- single-achivement -->                    
+                    </div> <!-- single-achivement -->
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-lg-5 col-12 wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".1s">
-                     <div class="main-profile-img">
+                    <div class="main-profile-img">
                         <img src="assets/img/main_profile.png" alt="profile image">
-                       <span>+</span>
-                       <div class="dots_animate"></div>
+                        <span>+</span>
+                        <div class="dots_animate"></div>
                     </div>
                 </div>
                 <div class="col-lg-6 offset-lg-1 col-12 wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s">
                     <div class="about-content">
                         <h1>Hello! I,m Spruce Springlane Graphic & Web Design and Web Developer.</h1>
                         <h3>Have 4 Years Experienced</h3>
-                        <p>I am a student studying Diploma in Computer Engineering. I love coding and programming.  I am contributing to various open source projects and packages.</p>
+                        <p>I am a student studying Diploma in Computer Engineering. I love coding and programming. I am
+                            contributing to various open source projects and packages.</p>
 
                         <div class="row mt-4">
                             <div class="col-sm-6 col-12">
@@ -322,235 +332,259 @@
     </section>
 
     <section class="skills-experiance-resume section-padding" id="resume">
-      <div class="container">
-        <div class="row">
-           <div class="col-12 text-center col-lg-10 offset-lg-1">
-               <div class="section-title-one">
-                   <span>My resume</span>
-                   <h2>High Skilled Provide High Quality </h2>
-               </div>
-           </div>
-        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center col-lg-10 offset-lg-1">
+                    <div class="section-title-one">
+                        <span>My resume</span>
+                        <h2>High Skilled Provide High Quality </h2>
+                    </div>
+                </div>
+            </div>
 
-        <div class="row">
-           <div class="col-lg-7 col-12">
-                <div class="resume-timeline-wraper mt-5">
-                    <div class="row">
+            <div class="row">
+                <div class="col-lg-7 col-12">
+                    <div class="resume-timeline-wraper mt-5">
+                        <div class="row">
 
-                        <div class="col-sm-3">
-                           <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                              <a class="nav-link active" id="v-pills-edu-tab" data-toggle="pill" href="#v-pills-edu" role="tab" aria-controls="v-pills-edu" aria-selected="true">Education</a>
-                              <a class="nav-link" id="v-pills-job-tab" data-toggle="pill" href="#v-pills-job" role="tab" aria-controls="v-pills-job" aria-selected="false">Experience</a>
-                              <a class="nav-link" id="v-pills-awards-tab" data-toggle="pill" href="#v-pills-awards" role="tab" aria-controls="v-pills-awards" aria-selected="false">Awards</a>
-                           </div>
+                            <div class="col-sm-3">
+                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist"
+                                    aria-orientation="vertical">
+                                    <a class="nav-link active" id="v-pills-edu-tab" data-toggle="pill"
+                                        href="#v-pills-edu" role="tab" aria-controls="v-pills-edu"
+                                        aria-selected="true">Education</a>
+                                    <a class="nav-link" id="v-pills-job-tab" data-toggle="pill" href="#v-pills-job"
+                                        role="tab" aria-controls="v-pills-job" aria-selected="false">Experience</a>
+                                    <a class="nav-link" id="v-pills-awards-tab" data-toggle="pill"
+                                        href="#v-pills-awards" role="tab" aria-controls="v-pills-awards"
+                                        aria-selected="false">Awards</a>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-9">
+                                <div class="tab-content" id="v-pills-tabContent">
+                                    <div class="tab-pane fade show active" id="v-pills-edu" role="tabpanel"
+                                        aria-labelledby="v-pills-edu-tab">
+                                        <div class="single-resume-item">
+                                            <div class="year">
+                                                <span>2014-2015</span>
+                                            </div>
+                                            <h3>J.S.C</h3>
+                                            <h5>Mosjid Mission Academy school & collage</h5>
+                                            <p>I am Junior School Certificate examination is compleate for mosjid
+                                                mission academy school and collage ,Rajshahi.I got G.P.A 5.00 (not out
+                                                of 5)</p>
+                                        </div>
+                                        <div class="single-resume-item">
+                                            <div class="year">
+                                                <span>2015-2017</span>
+                                            </div>
+                                            <h3>S.S.C</h3>
+                                            <h5>Mosjid Mission Academy school & collage</h5>
+                                            <p>I am Secondary School Certificate examination is compleate for mosjid
+                                                mission academy school and collage ,Rajshahi.I got G.P.A 4.82 ( out of
+                                                5)</p>
+                                        </div>
+                                        <div class="single-resume-item">
+                                            <div class="year">
+                                                <span>2017-2022</span>
+                                            </div>
+                                            <h3>Diploma in Computer Science & Engineering</h3>
+                                            <h5>Rajshahi Polytechnic Institute</h5>
+                                            <p>I am diploma engineering compleate for Rajshahi polytechnic institute . I
+                                                got G.P.A 3.50 (out of 4).</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="tab-pane fade" id="v-pills-job" role="tabpanel"
+                                        aria-labelledby="v-pills-job-tab">
+                                        <div class="single-resume-item">
+                                            <div class="year">
+                                                <span>2022</span>
+                                            </div>
+                                            <h3>Web Developer</h3>
+                                            <h5>Bdtask</h5>
+                                            <p>I am study Rajshahi Polytechnic institute . I have traning 3 month
+                                                computer developer in bdtask company ,Dhaka. I got G.P.A 4.00(not out of
+                                                4).</p>
+                                        </div>
+
+                                    </div>
+                                    <div class="tab-pane fade" id="v-pills-awards" role="tabpanel"
+                                        aria-labelledby="v-pills-awards-tab">
+                                        <div class="single-resume-item">
+                                            <div class="year">
+                                                <span>2015</span>
+                                            </div>
+                                            <h3>Best Student Result</h3>
+                                            <h5>Mosjid Mission Academy school & collage</h5>
+                                            <p>I got Golden A + in JSC so I was rewarded from school .</p>
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+                            </div>
                         </div>
 
-                        <div class="col-sm-9">
-                           <div class="tab-content" id="v-pills-tabContent">
-                              <div class="tab-pane fade show active" id="v-pills-edu" role="tabpanel" aria-labelledby="v-pills-edu-tab">
-                                  <div class="single-resume-item">
-                                      <div class="year">
-                                          <span>2014-2015</span>
-                                      </div>
-                                      <h3>J.S.C</h3>
-                                      <h5>Mosjid Mission Academy school & collage</h5>
-                                      <p>I am Junior School Certificate examination is compleate for mosjid mission academy school and collage ,Rajshahi.I got G.P.A  5.00 (not out of 5)</p>
-                                  </div>
-                                  <div class="single-resume-item">
-                                      <div class="year">
-                                          <span>2015-2017</span>
-                                      </div>
-                                      <h3>S.S.C</h3>
-                                      <h5>Mosjid Mission Academy school & collage</h5>
-                                      <p>I am Secondary School Certificate examination is compleate for mosjid mission academy school and collage ,Rajshahi.I got G.P.A  4.82 ( out of 5)</p>
-                                  </div>
-                                  <div class="single-resume-item">
-                                      <div class="year">
-                                          <span>2017-2022</span>
-                                      </div>
-                                      <h3>Diploma in Computer Science & Engineering</h3>
-                                      <h5>Rajshahi Polytechnic Institute</h5>
-                                      <p>I am diploma engineering compleate for Rajshahi polytechnic institute . I got G.P.A 3.50 (out of 4).</p>
-                                  </div>
-                              </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-12">
+                    <div class="programming-skill mt-5">
+                        <h3>Coding Skills</h3>
 
-                              <div class="tab-pane fade" id="v-pills-job" role="tabpanel" aria-labelledby="v-pills-job-tab">
-                                <div class="single-resume-item">
-                                    <div class="year">
-                                        <span>2022</span>
-                                    </div>
-                                    <h3>Web Developer</h3>
-                                    <h5>Bdtask</h5>
-                                    <p>I am study Rajshahi Polytechnic institute . I have traning 3 month computer developer in bdtask company ,Dhaka. I got G.P.A 4.00(not out of 4).</p>
+                        <div class="single-progress-bar">
+                            <p>HTML & CSS</p>
+                            <div class="progress-bar barfiller" id='bar1'>
+                                <div class="tipWrap wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".2s">
+                                    <span class="tip">90%</span>
                                 </div>
-                               
-                              </div>
-                              <div class="tab-pane fade" id="v-pills-awards" role="tabpanel" aria-labelledby="v-pills-awards-tab">
-                                <div class="single-resume-item">
-                                    <div class="year">
-                                        <span>2015</span>
-                                    </div>
-                                    <h3>Best Student Result</h3>
-                                    <h5>Mosjid Mission Academy school & collage</h5>
-                                    <p>I got Golden A + in JSC so I was rewarded from school .</p>
-                                </div>
-                               
-                              </div>
-
-                              
-                           </div>
+                                <span class="fill wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".2s"
+                                    data-percentage="90"></span>
+                            </div>
                         </div>
-                     </div>
 
-                </div>
-           </div>
-           <div class="col-lg-5 col-12">
-              <div class="programming-skill mt-5">
-                 <h3>Coding Skills</h3>
+                        <div class="single-progress-bar">
+                            <p>JavaScript</p>
+                            <div class="barfiller progress-bar" id='bar2'>
+                                <div class="tipWrap wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".4s">
+                                    <span class="tip">60%</span>
+                                </div>
+                                <span class="fill wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".4s"
+                                    data-percentage="60"></span>
+                            </div>
+                        </div>
 
-                 <div class="single-progress-bar">
-                  <p>HTML & CSS</p>
-                   <div class="progress-bar barfiller" id='bar1'>                      
-                     <div class="tipWrap wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".2s">
-                        <span class="tip">90%</span>
-                     </div>
-                     <span class="fill wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".2s" data-percentage="90"></span>
-                   </div>
-                 </div>
-                 
-                 <div class="single-progress-bar">
-                  <p>JavaScript</p>
-                   <div class="barfiller progress-bar" id='bar2'>                      
-                     <div class="tipWrap wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".4s">
-                        <span class="tip">60%</span>
-                     </div>
-                     <span class="fill wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".4s" data-percentage="60"></span>
-                   </div>
-                 </div>
+                        <div class="single-progress-bar">
+                            <p>PHP </p>
+                            <div class="barfiller progress-bar" id='bar3'>
+                                <div class="tipWrap wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".6s">
+                                    <span class="tip">70%</span>
+                                </div>
+                                <span class="fill wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".6s"
+                                    data-percentage="70"></span>
+                            </div>
+                        </div>
 
-                 <div class="single-progress-bar">
-                  <p>PHP </p>
-                   <div class="barfiller progress-bar" id='bar3'>                      
-                     <div class="tipWrap wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".6s">
-                        <span class="tip">70%</span>
-                     </div>
-                     <span class="fill wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".6s" data-percentage="70"></span>
-                   </div>
-                 </div>
 
-                
-              </div>
-
-              <div class="design-skills mt-45">
-                <h3> Skills</h3>
-                <div class="row">
-                    <div class="single-design-skill text-center col-sm-4 col-12">
-                        <div class="circlechart" data-percentage="90"></div>
-                        <p>Web Design</p>
                     </div>
-                    <div class="single-design-skill text-center col-sm-4 col-12">
-                        <div class="circlechart" data-percentage="65"></div>
-                        <p>web development</p>
+
+                    <div class="design-skills mt-45">
+                        <h3> Skills</h3>
+                        <div class="row">
+                            <div class="single-design-skill text-center col-sm-4 col-12">
+                                <div class="circlechart" data-percentage="90"></div>
+                                <p>Web Design</p>
+                            </div>
+                            <div class="single-design-skill text-center col-sm-4 col-12">
+                                <div class="circlechart" data-percentage="65"></div>
+                                <p>web development</p>
+                            </div>
+
+                        </div>
                     </div>
-                   
                 </div>
-              </div>
-           </div>
+            </div>
         </div>
-      </div>
-   </section>
+    </section>
 
     <section class="portfolio-showcase section-padding pt-0" id="portfolio">
-       <div class="container">
-         <div class="row">
-            <div class="col-12 text-center col-lg-10 offset-lg-1">
-                <div class="section-title-one">
-                    <span>My portfolio</span>
-                    <h2>I’m  Web Design & Developer and Check my Recent Work I’ll Provide my Clients.</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center col-lg-10 offset-lg-1">
+                    <div class="section-title-one">
+                        <span>My portfolio</span>
+                        <h2>I’m Web Design & Developer and Check my Recent Work I’ll Provide my Clients.</h2>
+                    </div>
                 </div>
             </div>
-         </div>
 
-         <div class="row">
-            <div class="col-md-12 text-center">
-                <div class="portfolio-filter mt-4 mt-sm-5">
-                    <button data-filter="*" class="active">All</button>
-                    <button data-filter=".wordpress">WordPress</button>
-                    <button data-filter=".website">Web Developer</button>
-                    <button data-filter=".app">Laravel</button>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="portfolio-filter mt-4 mt-sm-5">
+                        <button data-filter="*" class="active">All</button>
+                        <button data-filter=".wordpress">WordPress</button>
+                        <button data-filter=".website">Web Developer</button>
+                        <button data-filter=".app">Laravel</button>
+                    </div>
+                </div>
+            </div>
+            <div class="row grid p-0">
+                <div class="col-lg-4 col-md-6 col-12 grid-item wordpress website app">
+                    <div class="single-portfolio-item">
+                        <a href="assets/img/portfolio/web1.jpg" class="popup-gallery">
+                            <img class="img-fluid" src="assets/img/portfolio/web1.jpg" alt="">
+                            <span class="zoom-icon">+</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-12 grid-item wordpress">
+                    <div class="single-portfolio-item">
+                        <a href="assets/img/portfolio/6.jpg" class="popup-gallery">
+                            <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="">
+                            <span class="zoom-icon">+</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-12 grid-item wordpress website">
+                    <div class="single-portfolio-item">
+                        <a href="assets/img/portfolio/web2.jpg" class="popup-gallery">
+                            <img class="img-fluid" src="assets/img/portfolio/web2.jpg" alt="">
+                            <span class="zoom-icon">+</span>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="row grid p-0">
-            <div class="col-lg-4 col-md-6 col-12 grid-item wordpress website app">
-                <div class="single-portfolio-item">
-                    <a href="assets/img/portfolio/web1.jpg" class="popup-gallery">
-                        <img class="img-fluid" src="assets/img/portfolio/web1.jpg" alt="">
-                        <span class="zoom-icon">+</span>
-                    </a>
-                </div>
-            </div>
-                       
-            <div class="col-lg-4 col-md-6 col-12 grid-item wordpress">
-                <div class="single-portfolio-item">
-                    <a href="assets/img/portfolio/6.jpg" class="popup-gallery">
-                        <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="">
-                        <span class="zoom-icon">+</span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12 grid-item wordpress website">
-               <div class="single-portfolio-item">
-                   <a href="assets/img/portfolio/web2.jpg" class="popup-gallery">
-                       <img class="img-fluid" src="assets/img/portfolio/web2.jpg" alt="">
-                       <span class="zoom-icon">+</span>
-                   </a>
-               </div>
-           </div>
-         </div>
-       </div>
     </section>
 
     <!-- testimonial section -->
-    <section id="testimonial" class="testimonial-section section-padding theme-bg-gray" style="background-image: url('assets/img/testimonial_bg.png');">
+    <section id="testimonial" class="testimonial-section section-padding theme-bg-gray"
+        style="background-image: url('assets/img/testimonial_bg.png');">
         <div class="container">
-            <div class="row">                
+            <div class="row">
                 <div class="col-12">
                     <div class="testimonial-carousel-active text-center owl-carousel owl-theme">
                         <div class="single-testimonial-box">
-                           <div class="client-img" style="background-image: url('assets/img/client1.png');"></div>
+                            <div class="client-img" style="background-image: url('assets/img/client1.png');"></div>
                             <div class="client-info">
                                 <h3>Iqbal Hasan</h3>
                                 <span>Laravel Developer</span>
                             </div>
-                            <p>My client always helps me. He helps me with any problem. If you want, you can get help from my client's case. </p>
+                            <p>My client always helps me. He helps me with any problem. If you want, you can get help
+                                from my client's case. </p>
                         </div>
                         <div class="single-testimonial-box">
-                           <div class="client-img" style="background-image: url('assets/img/client2.png');"></div>
+                            <div class="client-img" style="background-image: url('assets/img/client2.png');"></div>
                             <div class="client-info">
                                 <h3>Rakib Islam</h3>
                                 <span>web Developer</span>
                             </div>
-                            <p>My client always helps me. He helps me with any problem. If you want, you can get help from my client's case.</p>
+                            <p>My client always helps me. He helps me with any problem. If you want, you can get help
+                                from my client's case.</p>
                         </div>
                         <div class="single-testimonial-box">
-                           <div class="client-img" style="background-image: url('assets/img/client3.png');"></div>
+                            <div class="client-img" style="background-image: url('assets/img/client3.png');"></div>
                             <div class="client-info">
                                 <h3>Biplop Hasan</h3>
                                 <span>WordPress Developer</span>
                             </div>
-                            <p>My client always helps me. He helps me with any problem. If you want, you can get help from my client's case.</p>
+                            <p>My client always helps me. He helps me with any problem. If you want, you can get help
+                                from my client's case.</p>
                         </div>
-                        
-                        
+
+
                     </div>
-                </div>                
+                </div>
             </div>
         </div>
     </section>
 
-   
-    <section id="contact" class="contact-section section-padding theme-bg-gray" style="background-image: url('assets/img/testimonial_bg.png');">
+
+    <section id="contact" class="contact-section section-padding theme-bg-gray"
+        style="background-image: url('assets/img/testimonial_bg.png');">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center col-lg-10 offset-lg-1">
@@ -601,7 +635,7 @@
                         </div>
                     </div>
                 </div><!-- col-lg-4 col-12 -->
-            </div>          
+            </div>
         </div>
     </section>
 
@@ -636,7 +670,7 @@
     <script src="assets/js/barfiller.js"></script>
     <script src="assets/js/ajax-mail.js"></script>
     <script>
-    let typed = new Typed('.profession', {
+        let typed = new Typed('.profession', {
         strings: ["Freelance Developer", "UI Designer"],
         typeSpeed: 80,
         loop: true,
